@@ -1,7 +1,7 @@
-<h2>Hi, my name is Brandon Bautista and I'm a JavaScript developer</h2>
+<h3>Hi, my name is Brandon Bautista and I'm a JavaScript developer</h3>
 
-<h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
-<p align="left">
+<h5> 🚀 &nbsp;I have learned and used the next tools</h5>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
