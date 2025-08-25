@@ -1,4 +1,5 @@
-<h3>Hi, my name is Brandon Bautista</h3>
+<!--
+ <h3>Hi, my name is Brandon Bautista</h3>
 <h5>
   I am a FullStack Software Developer.
 </h5>
@@ -31,7 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/>
 </p>
-<!--
+
 **bbaut/bbaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
